@@ -1,0 +1,33 @@
+.outer
+{
+    list-style-type: none;
+    border-bottom: 2px solid black;
+    color:rgb(37, 209, 152);
+}
+.outer li
+{
+    display: inline;
+    padding: 5px 5px;
+    margin-right: 10px;
+    border-radius: 50%;
+    font-size: 20px;
+}
+.outer li a
+{
+color:rgb(37, 209, 152);
+}
+.harsh
+{
+    background-color:rgba(0, 208, 255, 0.5);
+    top: 0px;
+    left: 0px;
+    padding-top: 20%;
+    width: 50%;
+    height: 100%;
+    clip-path: polygon(0% 0%, 100% 0%, 90% 100%, 0% 100%);
+}
+
+.ravi a{
+    text-decoration: none;
+    color:white;
+}
